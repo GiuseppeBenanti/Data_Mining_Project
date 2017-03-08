@@ -1,0 +1,12 @@
+REQUIREMENTS - Homework1 - COMP47350 Conv. H.Dip Course
+Giuseppe Benanti - 07266120 - 
+
+Python Packages used for the Data Analytics Project: Winner Sellers in Amazon
+
+-pandas
+-seaborn
+-matplotlib.pyplot
+-numpy
+
+
+
